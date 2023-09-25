@@ -4,7 +4,8 @@
   "description": "tailwind",
   "main": "index.js",
   "scripts": {
-    "start": "vite"
+    "start": "vite",
+    "host": "vite --host"
   },
   "author": "",
   "license": "ISC",
